@@ -1,0 +1,25 @@
+{
+    "name": "youtube_customizer",
+    "version": "1.0.0",
+    "description": "Changes layout of YouTube and adds QoL features.",
+    "author": "Ryze",
+    "license": "GPL-3.0-only",
+    "homepage": "https://github.com/ryze312/youtube-customizer",
+    "bugs": {
+        "url": "https://github.com/ryze312/youtube-customizer/issues"
+    },
+    "devDependencies": {
+        "@types/firefox-webext-browser": "^111.0.4"
+    },
+    "scripts": {
+        "clean": "rm -rf build",
+        "build": "pnpm run clean && mkdir build && cp -r extension build/target && tsc && web-ext build"
+    },
+    "webExt": {
+        "sourceDir": "build/target",
+        "artifactsDir": "build/dist",
+        "build": {
+            "overwriteDest": true
+        }
+    }
+}

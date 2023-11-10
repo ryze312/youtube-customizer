@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+devDependencies:
+  '@types/firefox-webext-browser':
+    specifier: ^111.0.4
+    version: 111.0.4
+
+packages:
+
+  /@types/firefox-webext-browser@111.0.4:
+    resolution: {integrity: sha512-2XGCwr6xa2ltUys6LWRNjoU+4b0+uY/jJdjXw6sMeZPyh9yIuD49fC8lSQPMm+0wVLJXbwu+ZRPD/EK17jNoRg==}
+    dev: true
