@@ -1,0 +1,158 @@
+{
+    "extensionName": {
+        "message": "YouTube Customizer - YouTube személyreszabó"
+    },
+    "extensionDescription": {
+        "message": "Eltávolítja a fölösleges gombokat a YouTube oldalsávjáról"
+    },
+    "mainSection": {
+        "message": "Fő"
+    },
+    "homeOption": {
+        "message": "Kezdőlap"
+    },
+    "shortsOption": {
+        "message": "Shorts"
+    },
+    "subscriptionsOption": {
+        "message": "Feliratkozások"
+    },
+    "libraryOption": {
+        "message": "Könyvtár (Te)"
+    },
+    "channelOption": {
+        "message": "Saját csatorna"
+    },
+    "historyOption": {
+        "message": "Előzmények"
+    },
+    "videosOption": {
+        "message": "Videóid"
+    },
+    "watchLaterOption": {
+        "message": "Megnézendő videók"
+    },
+    "downloadsOption": {
+        "message": "Letöltések"
+    },
+    "likedOption": {
+        "message": "Kedvelt videók"
+    },
+    "playlistsOption": {
+        "message": "Lejátszási listák"
+    },
+    "channelsOption": {
+        "message": "Böngészés"
+    },
+    "exploreSection": {
+        "message": "Felfedezés"
+    },
+    "trendingOption": {
+        "message": "Felkapott"
+    },
+    "musicOption": {
+        "message": "Zene"
+    },
+    "filmsOption": {
+        "message": "Filmek"
+    },
+    "liveOption": {
+        "message": "Élő"
+    },
+    "gamingOption": {
+        "message": "Játék"
+    },
+    "newsOption": {
+        "message": "Hírek"
+    },
+    "sportsOption": {
+        "message": "Sports"
+    },
+    "learningOption": {
+        "message": "Tanulás"
+    },
+    "fashionOption": {
+        "message": "Divat és szépségápolás"
+    },
+    "ytMoreSection": {
+        "message": "Továbbiak a YouTube-ról"
+    },
+    "ytPremiumOption": {
+        "message": "YouTube Premium"
+    },
+    "ytStudioOption": {
+        "message": "YouTube Studio"
+    },
+    "ytMusicOption": {
+        "message": "YouTube Music"
+    },
+    "ytKidsOption": {
+        "message": "YouTube Kids"
+    },
+    "miscSection": {
+        "message": "Vegyes"
+    },
+    "settingsOption": {
+        "message": "Beállítások"
+    },
+    "reportOption": {
+        "message": "Bejelentési előzmények"
+    },
+    "helpOption": {
+        "message": "Súgó"
+    },
+    "feedbackOption": {
+        "message": "Visszajelzés küldése"
+    },
+    "topbarSection": {
+        "message": "Fejléc"
+    },
+    "topbarLogoOption": {
+        "message": "Logó"
+    },
+    "topbarSearchOption": {
+        "message": "Keresőmező"
+    },
+    "topbarVoiceSearchOption": {
+        "message": "Keresés hanggal"
+    },
+    "topbarCreateButtonOption": {
+        "message": "Létrehozás gomb"
+    },
+    "topbarNotificationsButtonOption": {
+        "message": "Értesítések gomb"
+    },
+    "topbarAccountButtonOption": {
+        "message": "Fiók gomb"
+    },
+    "topbarSignInButtonOption": {
+        "message": "Bejelentkezés gomb"
+    },
+    "otherSection": {
+        "message": "Egyéb"
+    },
+    "disableSignInPromoOption": {
+        "message": "Bejelentkeztető promó eltávolítása"
+    },
+    "disableSubscriptionsOption": {
+        "message": "Feliratkozások eltávolítása az oldalsávról"
+    },
+    "disableFooterOption": {
+        "message": "Lábjegyzet eltávolítása az oldalsávról"
+    },
+    "startGuideClosedOption": {
+        "message": "Indítás zárt oldalsávval"
+    },
+    "redirectHomeOption": {
+        "message": "A kezdőlap átirányítása a feliratkozásokhoz"
+    },
+    "ff2mpvEnabledOption": {
+        "message": "Videók megnyitása ff2mpv-vel"
+    },
+    "enableAllButton": {
+        "message": "Minden engedélyezése" 
+    },
+    "disableAllButton": {
+        "message": "Minden tiltása"
+    }
+}

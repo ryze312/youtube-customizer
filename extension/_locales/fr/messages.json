@@ -1,0 +1,158 @@
+{
+    "extensionName": {
+        "message": "Personnalisateur YouTube - YouTube Customizer"
+    },
+    "extensionDescription": {
+        "message": "Change l'apparence de YouTube et ajoute des fonctionnalités de qualité de vie."
+    },
+    "mainSection": {
+        "message": "Principal"
+    },
+    "homeOption": {
+        "message": "Accueil"
+    },
+    "shortsOption": {
+        "message": "Shorts"
+    },
+    "subscriptionsOption": {
+        "message": "Abonnements"
+    },
+    "libraryOption": {
+        "message": "Bibliothèque (Vous)"
+    },
+    "channelOption": {
+        "message": "Votre chaîne"
+    },
+    "historyOption": {
+        "message": "Historique"
+    },
+    "videosOption": {
+        "message": "Vos vidéos"
+    },
+    "watchLaterOption": {
+        "message": "À regarder plus tard"
+    },
+    "downloadsOption": {
+        "message": "Téléchargements"
+    },
+    "likedOption": {
+        "message": "Vidéos \"J'aime\""
+    },
+    "playlistsOption": {
+        "message": "Playlists"
+    },
+    "channelsOption": {
+        "message": "Chaînes"
+    },
+    "exploreSection": {
+        "message": "Explorer"
+    },
+    "trendingOption": {
+        "message": "Tendancies"
+    },
+    "musicOption": {
+        "message": "Musique"
+    },
+    "filmsOption": {
+        "message": "Films"
+    },
+    "liveOption": {
+        "message": "Direct"
+    },
+    "gamingOption": {
+        "message": "Jeux vidéo"
+    },
+    "newsOption": {
+        "message": "Actualités"
+    },
+    "sportsOption": {
+        "message": "Sports"
+    },
+    "learningOption": {
+        "message": "Savoirs & Cultures"
+    },
+    "fashionOption": {
+        "message": "Mode et beauté"
+    },
+    "ytMoreSection": {
+        "message": "Autres contenus YouTube"
+    },
+    "ytPremiumOption": {
+        "message": "YouTube Premium"
+    },
+    "ytStudioOption": {
+        "message": "YouTube Studio"
+    },
+    "ytMusicOption": {
+        "message": "YouTube Music"
+    },
+    "ytKidsOption": {
+        "message": "YouTube Kids"
+    },
+    "miscSection": {
+        "message": "Divers"
+    },
+    "settingsOption": {
+        "message": "Paramètres"
+    },
+    "reportOption": {
+        "message": "Historique des signalements"
+    },
+    "helpOption": {
+        "message": "Aide"
+    },
+    "feedbackOption": {
+        "message": "Envoyer des commentaires"
+    },
+    "otherSection": {
+        "message": "Autres"
+    },
+    "topbarSection": {
+        "message": "En-tête de navigation"
+    },
+    "topbarLogoOption": {
+        "message": "Logo"
+    },
+    "topbarSearchOption": {
+        "message": "Boîte de recherche"
+    },
+    "topbarVoiceSearchOption": {
+        "message": "Recherche vocale"
+    },
+    "topbarCreateButtonOption": {
+        "message": "Bouton Créer"
+    },
+    "topbarNotificationsButtonOption": {
+        "message": "Bouton Notifications"
+    },
+    "topbarAccountButtonOption": {
+        "message": "Bouton Compte"
+    },
+    "topbarSignInButtonOption": {
+        "message": "Bouton Connexion"
+    },
+    "disableSignInPromoOption": {
+        "message": "Désactiver l'invite de connexion"
+    },
+    "disableSubscriptionsOption": {
+        "message": "Désactiver les abonnements dans la barre de navigation"
+    },
+    "disableFooterOption": {
+        "message": "Désactiver le pied de page de la barre de navigation"
+    },
+    "startGuideClosedOption": {
+        "message": "Démarrer avec la bare de navigation fermée"
+    },
+    "redirectHomeOption": {
+        "message": "Rediriger Accueil vers Abonnements"
+    },
+    "ff2mpvEnabledOption": {
+        "message": "Ouvrir les vidéos avec ff2mpv"
+    },
+    "enableAllButton": {
+        "message": "Tout activer" 
+    },
+    "disableAllButton": {
+        "message": "Tout désactiver"
+    }
+}

@@ -1,0 +1,97 @@
+:root {
+    --background-color: #160F1D;
+    --config-section-background-color: #6241BD;
+    --config-button-disabled: #27194E;
+    --config-button-enabled: #3F1D9E;
+    --shadow: 4px 4px 10px #2C0633;
+    --glow: 10px 10px 10px #2C0633;
+}
+
+html, body {
+    margin: 0;
+}
+
+body {
+    background-color: var(--background-color);
+    color: #EEEEEE;
+    
+    font-size: 1.2vw;
+    font-family: "Open Sans", "Roboto", "Arial", "sans-serif";
+}
+
+#options {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 20em);
+    gap: 2vh;
+    justify-content: center;
+    
+    width: 80vw;
+    margin: auto;
+    padding: 30px;
+    
+    border-radius: 2vh;
+}
+
+config-section { 
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    padding: 20px;
+    border-radius: 3vh;
+    
+    background: var(--config-section-background-color);
+    box-shadow: var(--glow);
+}
+
+config-option {
+    margin: 2px;
+    padding: 10px;
+    border-radius: 1vh;
+    
+    background-color: var(--config-button-disabled);
+    cursor: pointer;
+    transition: ease-out 0.2s;
+}
+
+config-option:hover {
+    transform: translate(-4px, -4px);
+    box-shadow: var(--shadow);
+}
+
+.config-option-enabled {
+    background-color: var(--config-button-enabled);
+}
+
+.config-heading {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.config-buttons {
+    display: flex;
+    margin-top: auto;
+    padding-top: 10px;
+}
+
+.config-buttons button {
+    margin-left:  auto;
+    margin-right: auto;
+    padding: 10px;
+    
+    border: none;
+    border-radius: 1vh;
+    
+    background-color: var(--config-button-enabled);
+    color: inherit;
+    font-size: inherit;
+
+    cursor: inherit;
+    transition: ease-out 0.1s;
+}
+
+.config-buttons button:hover {
+    transform: translate(-4px, -4px);
+    box-shadow: var(--shadow);
+}
+

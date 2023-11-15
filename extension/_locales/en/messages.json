@@ -1,0 +1,158 @@
+{
+    "extensionName": {
+        "message": "YouTube Customizer"
+    },
+    "extensionDescription": {
+        "message": "Changes layout of YouTube and adds QoL features."
+    },
+    "mainSection": {
+        "message": "Main"
+    },
+    "homeOption": {
+        "message": "Home"
+    },
+    "shortsOption": {
+        "message": "Shorts"
+    },
+    "subscriptionsOption": {
+        "message": "Subscriptions"
+    },
+    "libraryOption": {
+        "message": "Library (You)"
+    },
+    "channelOption": {
+        "message": "Your channel"
+    },
+    "historyOption": {
+        "message": "History"
+    },
+    "videosOption": {
+        "message": "Your videos"
+    },
+    "watchLaterOption": {
+        "message": "Watch Later"
+    },
+    "downloadsOption": {
+        "message": "Downloads"
+    },
+    "likedOption": {
+        "message": "Liked videos"
+    },
+    "playlistsOption": {
+        "message": "Playlists"
+    },
+    "channelsOption": {
+        "message": "Browse channels"
+    },
+    "exploreSection": {
+        "message": "Explore"
+    },
+    "trendingOption": {
+        "message": "Trending"
+    },
+    "musicOption": {
+        "message": "Music"
+    },
+    "filmsOption": {
+        "message": "Films"
+    },
+    "liveOption": {
+        "message": "Live"
+    },
+    "gamingOption": {
+        "message": "Gaming"
+    },
+    "newsOption": {
+        "message": "News"
+    },
+    "sportsOption": {
+        "message": "Sports"
+    },
+    "learningOption": {
+        "message": "Learning"
+    },
+    "fashionOption": {
+        "message": "Fashion & Beauty"
+    },
+    "ytMoreSection": {
+        "message": "More from YouTube"
+    },
+    "ytPremiumOption": {
+        "message": "YouTube Premium"
+    },
+    "ytStudioOption": {
+        "message": "YouTube Studio"
+    },
+    "ytMusicOption": {
+        "message": "YouTube Music"
+    },
+    "ytKidsOption": {
+        "message": "YouTube Kids"
+    },
+    "miscSection": {
+        "message": "Miscellaneous"
+    },
+    "settingsOption": {
+        "message": "Settings"
+    },
+    "reportOption": {
+        "message": "Report history"
+    },
+    "helpOption": {
+        "message": "Help"
+    },
+    "feedbackOption": {
+        "message": "Send feedback"
+    },
+    "topbarSection": {
+        "message": "Topbar"
+    },
+    "topbarLogoOption": {
+        "message": "Logo"
+    },
+    "topbarSearchOption": {
+        "message": "Search box"
+    },
+    "topbarVoiceSearchOption": {
+        "message": "Voice search"
+    },
+    "topbarCreateButtonOption": {
+        "message": "Create button"
+    },
+    "topbarNotificationsButtonOption": {
+        "message": "Notifications button"
+    },
+    "topbarAccountButtonOption": {
+        "message": "Account button"
+    },
+    "topbarSignInButtonOption": {
+        "message": "Sign-in button"
+    },
+    "otherSection": {
+        "message": "Other"
+    },
+    "disableSignInPromoOption": {
+        "message": "Disable sign-in promo"
+    },
+    "disableSubscriptionsOption": {
+        "message": "Disable sidebar subscriptions"
+    },
+    "disableFooterOption": {
+        "message": "Disable sidebar footer"
+    },
+    "startGuideClosedOption": {
+        "message": "Start sidebar closed"
+    },
+    "redirectHomeOption": {
+        "message": "Redirect Home to Subscriptions"
+    },
+    "ff2mpvEnabledOption": {
+        "message": "Launch ff2mpv on video click"
+    },
+    "enableAllButton": {
+        "message": "Enable all" 
+    },
+    "disableAllButton": {
+        "message": "Disable all"
+    }
+}

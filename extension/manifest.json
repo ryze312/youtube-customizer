@@ -1,0 +1,53 @@
+{
+    "manifest_version": 2,
+    "name": "__MSG_extensionName__",
+    "description": "__MSG_extensionDescription__",
+    "default_locale": "en",
+    "version": "1.0.0",
+    "developer": {
+        "name": "Ryze",
+        "url": "https://github.com/ryze312"
+    },
+
+    "icons": {
+        "16": "icon.svg",
+        "32": "icon.svg",
+        "64": "icon.svg",
+        "128": "icon.svg",
+        "256": "icon.svg",
+        "512": "icon.svg",
+        "1024": "icon.svg"
+    },
+
+    "options_ui": {
+        "page": "settings/settings.html",
+        "open_in_tab": true
+    },
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{841bfda8-83e6-11ee-82a9-4bf1ae962c91}"
+        }
+    },
+
+    "background": {
+        "scripts": ["scripts/background/config.js"],
+        "type": "module",
+        "persistent": false
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["*://*.youtube.com/*"],
+            "js": ["scripts/content/ytCustomizer.js"],
+            "run_at": "document_end",
+            "all_frames": false
+        }
+    ],
+
+    "permissions": [
+        "storage",
+        "nativeMessaging"
+    ]
+  }
+

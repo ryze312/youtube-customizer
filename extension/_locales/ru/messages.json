@@ -1,0 +1,158 @@
+{
+    "extensionName": {
+        "message": "YouTube Customizer - Редактор YouTube"
+    },
+    "extensionDescription": {
+        "message": "Изменяет дизайн YouTube и добавляет полезные функции."
+    },
+    "mainSection": {
+        "message": "Главное"
+    },
+    "homeOption": {
+        "message": "Главная"
+    },
+    "shortsOption": {
+        "message": "Shorts"
+    },
+    "subscriptionsOption": {
+        "message": "Подписки"
+    },
+    "libraryOption": {
+        "message": "Библиотека (Вы)"
+    },
+    "channelOption": {
+        "message": "Мой канал"
+    },
+    "historyOption": {
+        "message": "История"
+    },
+    "videosOption": {
+        "message": "Ваш канал"
+    },
+    "watchLaterOption": {
+        "message": "Смотреть позже"
+    },
+    "downloadsOption": {
+        "message": "Скачанные"
+    },
+    "likedOption": {
+        "message": "Понравившиеся"
+    },
+    "playlistsOption": {
+        "message": "Плейлисты"
+    },
+    "channelsOption": {
+        "message": "Каталог каналов"
+    },
+    "exploreSection": {
+        "message": "Навигатор"
+    },
+    "trendingOption": {
+        "message": "В тренде"
+    },
+    "musicOption": {
+        "message": "Музыка"
+    },
+    "filmsOption": {
+        "message": "Фильмы"
+    },
+    "liveOption": {
+        "message": "Трансляции"
+    },
+    "gamingOption": {
+        "message": "Видеоигры"
+    },
+    "newsOption": {
+        "message": "Новости"
+    },
+    "sportsOption": {
+        "message": "Спорт"
+    },
+    "learningOption": {
+        "message": "Обучение"
+    },
+    "fashionOption": {
+        "message": "Мода и красота"
+    },
+    "ytMoreSection": {
+        "message": "Другие возможности"
+    },
+    "ytPremiumOption": {
+        "message": "YouTube Premium"
+    },
+    "ytStudioOption": {
+        "message": "Творческая студия YouTube"
+    },
+    "ytMusicOption": {
+        "message": "YouTube Music"
+    },
+    "ytKidsOption": {
+        "message": "YouTube Детям"
+    },
+    "miscSection": {
+        "message": "Дополнительное"
+    },
+    "settingsOption": {
+        "message": "Настройки"
+    },
+    "reportOption": {
+        "message": "Жалобы"
+    },
+    "helpOption": {
+        "message": "Справка"
+    },
+    "feedbackOption": {
+        "message": "Отправить отзыв"
+    },
+    "topbarSection": {
+        "message": "Верхняя панель"
+    },
+    "topbarLogoOption": {
+        "message": "Логотип"
+    },
+    "topbarSearchOption": {
+        "message": "Строка поиска"
+    },
+    "topbarVoiceSearchOption": {
+        "message": "Голосовой поиск"
+    },
+    "topbarCreateButtonOption": {
+        "message": "Кнопка \"Cоздать\""
+    },
+    "topbarNotificationsButtonOption": {
+        "message": "Кнопка уведомлений"
+    },
+    "topbarAccountButtonOption": {
+        "message": "Кнопка аккаунта"
+    },
+    "topbarSignInButtonOption": {
+        "message": "Кнопка входа"
+    },
+    "otherSection": {
+        "message": "Другое"
+    },
+    "disableSignInPromoOption": {
+        "message": "Убрать промо-панель входа"
+    },
+    "disableSubscriptionsOption": {
+        "message": "Убрать боковую панель подписок"
+    },
+    "disableFooterOption": {
+        "message": "Убрать футер боковой панели"
+    },
+    "startGuideClosedOption": {
+        "message": "Закрыть боковую панель"
+    },
+    "redirectHomeOption": {
+        "message": "Открывать подписки вместо главной страницы"
+    },
+    "ff2mpvEnabledOption": {
+        "message": "Открытывать видео в ff2mpv"
+    },
+    "enableAllButton": {
+        "message": "Включить всё" 
+    },
+    "disableAllButton": {
+        "message": "Выключить всё"
+    }
+}
