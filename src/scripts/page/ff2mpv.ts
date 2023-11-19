@@ -3,7 +3,7 @@ import * as popup from "./popup.js";
 
 function openMpvPopup(app: YTApp) {
     const confirmButton: YTPopupButton = popup.createButton("Close", YTButtonStyle.BlueText, YTButtonSize.Default);
-    const confirmDialog: YTConfirmDialog = popup.createConfirmDialog("YouTube Layout Customizer", "Video has opened in mpv", confirmButton);
+    const confirmDialog: YTConfirmDialog = popup.createConfirmDialog("YouTube Customizer", "Video has been opened in mpv", confirmButton);
     const confirmPopup = popup.createConfirmPopup(confirmDialog);
     
     popup.openPopup(app, YTPopupType.Dialog, confirmPopup);
