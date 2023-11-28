@@ -6,11 +6,11 @@ settings:
 
 devDependencies:
   '@types/firefox-webext-browser':
-    specifier: ^111.0.4
-    version: 111.0.4
+    specifier: ^120.0.0
+    version: 120.0.0
 
 packages:
 
-  /@types/firefox-webext-browser@111.0.4:
-    resolution: {integrity: sha512-2XGCwr6xa2ltUys6LWRNjoU+4b0+uY/jJdjXw6sMeZPyh9yIuD49fC8lSQPMm+0wVLJXbwu+ZRPD/EK17jNoRg==}
+  /@types/firefox-webext-browser@120.0.0:
+    resolution: {integrity: sha512-L+tDlwNeq0kQGfAYc2sNfKhRWJz9CNRvlbq9HnLibKUiJ3VTThG8sj7xrJF4CtKpEA9eBAr91Z2nnKIAy+xUJg==}
     dev: true

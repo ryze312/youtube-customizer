@@ -9,7 +9,7 @@
         "url": "https://github.com/ryze312/youtube-customizer/issues"
     },
     "devDependencies": {
-        "@types/firefox-webext-browser": "^111.0.4"
+        "@types/firefox-webext-browser": "^120.0.0"
     },
     "scripts": {
         "clean": "rm -rf build",
